@@ -1,0 +1,9 @@
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/CMakeFiles/rebuild_cache.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/CMakeFiles/edit_cache.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rebuild_cache.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/edit_cache.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rapidjson_schemavalidator.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rapidjson_read.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rapidjson_read_array.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rapidjson_write.dir
+/Users/jerry/projects/vivo/projects/Daniel/rapidjson_example/build/src/CMakeFiles/rapidjson_read_from_file.dir

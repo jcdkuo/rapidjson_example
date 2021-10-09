@@ -1,0 +1,7 @@
+include_directories(rapidjson_read PRIVATE ${PROJECT_SOURCE_DIR}/oss/rapidjson-master/include)
+
+add_executable(rapidjson_read rapidjson_read.cpp)
+add_executable(rapidjson_read_from_file rapidjson_read_from_file.cpp)
+add_executable(rapidjson_write rapidjson_write.cpp)
+add_executable(rapidjson_read_array rapidjson_read_array.cpp)
+add_executable(rapidjson_schemavalidator rapidjson_schemavalidator.cpp)

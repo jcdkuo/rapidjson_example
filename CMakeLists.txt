@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION "3.10")
+project(rapidjson_example)
+
+message("CMAKE_BINARY_DIR: " ${CMAKE_BINARY_DIR})
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/doc)
+
+add_subdirectory(${PROJECT_SOURCE_DIR}/src)
